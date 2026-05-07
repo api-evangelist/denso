@@ -1,0 +1,23 @@
+aid: denso
+url: https://raw.githubusercontent.com/api-evangelist/denso/refs/heads/main/apis.yml
+name: Denso
+x-type: company
+description: >-
+  Denso Corporation is a Japanese global Tier 1 automotive components manufacturer headquartered in Kariya, Aichi. Denso designs and supplies thermal, powertrain, mobility electronics, and electrification systems to global automakers.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Tier 1 Supplier
+  - Components
+  - Thermal Management
+  - Electrification
+created: '2026-05-06'
+modified: '2026-05-06'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.denso.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

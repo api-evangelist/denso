@@ -4,7 +4,7 @@ name: Denso
 kind: company
 description: >-
   Denso Corporation is a Japanese global Tier 1 automotive components manufacturer headquartered in Kariya, Aichi. Denso designs and supplies thermal, powertrain, mobility electronics, and electrification systems to global automakers.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Automotive
   - Tier 1 Supplier
